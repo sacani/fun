@@ -1,0 +1,22 @@
+Sinclair.
+ZX Spectrum.
+Basic.
+Steven Vickers.
+1982.
+Commands.
+Instructions.
+PRINT.
+LET.
+INPUT.
+BORDER.
+PAPER.
+BEEP.
+Mode.
+K.
+L.
+C.
+E.
+G.
+24 lines.
+32 characters.
+

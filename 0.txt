@@ -1,0 +1,15 @@
+Basic Básico.
+ZX Spectrum 48.
+ZX Spectrum Basic Manual.
+Ensamblador z80.
+
+MSDOS.
+Ensamblador x86.
+
+Windows.
+Web Browser.
+Javascript.
+
+REPL.
+C.
+Vim.
